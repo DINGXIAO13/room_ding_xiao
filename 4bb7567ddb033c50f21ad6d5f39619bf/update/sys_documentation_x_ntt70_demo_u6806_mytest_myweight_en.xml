@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="myweight" label="MyWeight" language="en" table="x_ntt70_demo_u6806_mytest">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>myweight</element>
+            <help/>
+            <hint/>
+            <label>MyWeight</label>
+            <language>en</language>
+            <name>x_ntt70_demo_u6806_mytest</name>
+            <plural>MyWeights</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>btteisul</sys_created_by>
+            <sys_created_on>2021-10-08 00:31:15</sys_created_on>
+            <sys_id>e80c5a75db433c50f21ad6d5f396191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>MyWeight</sys_name>
+            <sys_package display_value="demo_U680634" source="x_ntt70_demo_u6806">4bb7567ddb033c50f21ad6d5f39619bf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="demo_U680634">4bb7567ddb033c50f21ad6d5f39619bf</sys_scope>
+            <sys_update_name>sys_documentation_x_ntt70_demo_u6806_mytest_myweight_en</sys_update_name>
+            <sys_updated_by>btteisul</sys_updated_by>
+            <sys_updated_on>2021-10-08 00:31:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

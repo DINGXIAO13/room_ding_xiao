@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="character_type" table="x_ntt70_demo_u6806_mytest" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>character_type</element>
+            <name>x_ntt70_demo_u6806_mytest</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>btteisul</sys_created_by>
+            <sys_created_on>2021-10-08 05:25:38</sys_created_on>
+            <sys_id>706f97f9dbc73c50f21ad6d5f39619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>character_type</sys_name>
+            <sys_package display_value="demo_U680634" source="x_ntt70_demo_u6806">4bb7567ddb033c50f21ad6d5f39619bf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="demo_U680634">4bb7567ddb033c50f21ad6d5f39619bf</sys_scope>
+            <sys_update_name>sys_choice_x_ntt70_demo_u6806_mytest_character_type</sys_update_name>
+            <sys_updated_by>btteisul</sys_updated_by>
+            <sys_updated_on>2021-10-08 05:25:38</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>character_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>football</label>
+            <language>en</language>
+            <name>x_ntt70_demo_u6806_mytest</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>btteisul</sys_created_by>
+            <sys_created_on>2021-10-08 05:25:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>26fe97f9dbc73c50f21ad6d5f396199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btteisul</sys_updated_by>
+            <sys_updated_on>2021-10-08 05:25:38</sys_updated_on>
+            <value>0</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>character_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>basketball</label>
+            <language>en</language>
+            <name>x_ntt70_demo_u6806_mytest</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>btteisul</sys_created_by>
+            <sys_created_on>2021-10-08 05:25:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e16f97f9dbc73c50f21ad6d5f39619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btteisul</sys_updated_by>
+            <sys_updated_on>2021-10-08 05:25:51</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>character_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Table tennis</label>
+            <language>en</language>
+            <name>x_ntt70_demo_u6806_mytest</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>btteisul</sys_created_by>
+            <sys_created_on>2021-10-08 05:26:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e07f5ff9dbc73c50f21ad6d5f3961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btteisul</sys_updated_by>
+            <sys_updated_on>2021-10-08 05:26:44</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

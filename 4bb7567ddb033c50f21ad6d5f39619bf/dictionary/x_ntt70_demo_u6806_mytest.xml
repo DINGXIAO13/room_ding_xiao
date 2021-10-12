@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="mytest" max_length="40" name="x_ntt70_demo_u6806_mytest" sizeclass="1" type="collection">
+        <element choice="3" label="Character type" mandatory="true" max_length="100" name="character_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="basketball" value="1"/>
+                <element inactive_on_update="false" label="football" value="0"/>
+                <element inactive_on_update="false" label="Table tennis" value="3"/>
+            </choice>
+        </element>
+        <element label="firstname" max_length="100" name="firstname" type="string"/>
+        <element label="lastname" max_length="100" name="lastname" type="string"/>
+        <element choice="3" label="MySex" max_length="100" name="mysex" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="女" value="0"/>
+                <element inactive_on_update="false" label="男" value="1"/>
+            </choice>
+        </element>
+        <element label="MyWeight" max_length="100" name="myweight" type="integer"/>
+        <element label="Sourcetype" max_length="100" name="sourcetype" type="string"/>
+        <element label="Title" mandatory="true" max_length="100" name="title" type="string"/>
+    </element>
+</database>

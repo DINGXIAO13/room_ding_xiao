@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="mysex" table="x_ntt70_demo_u6806_mytest" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>mysex</element>
+            <name>x_ntt70_demo_u6806_mytest</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>btteisul</sys_created_by>
+            <sys_created_on>2021-10-08 00:28:37</sys_created_on>
+            <sys_id>b56bdef1db433c50f21ad6d5f39619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>mysex</sys_name>
+            <sys_package display_value="demo_U680634" source="x_ntt70_demo_u6806">4bb7567ddb033c50f21ad6d5f39619bf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="demo_U680634">4bb7567ddb033c50f21ad6d5f39619bf</sys_scope>
+            <sys_update_name>sys_choice_x_ntt70_demo_u6806_mytest_mysex</sys_update_name>
+            <sys_updated_by>btteisul</sys_updated_by>
+            <sys_updated_on>2021-10-08 00:28:37</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mysex</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>女</label>
+            <language>en</language>
+            <name>x_ntt70_demo_u6806_mytest</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>btteisul</sys_created_by>
+            <sys_created_on>2021-10-08 00:28:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e6b5a35db433c50f21ad6d5f39619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btteisul</sys_updated_by>
+            <sys_updated_on>2021-10-08 00:28:50</sys_updated_on>
+            <value>0</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mysex</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>男</label>
+            <language>en</language>
+            <name>x_ntt70_demo_u6806_mytest</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>btteisul</sys_created_by>
+            <sys_created_on>2021-10-08 00:28:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>825b1a35db433c50f21ad6d5f3961957</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btteisul</sys_updated_by>
+            <sys_updated_on>2021-10-08 00:28:37</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
