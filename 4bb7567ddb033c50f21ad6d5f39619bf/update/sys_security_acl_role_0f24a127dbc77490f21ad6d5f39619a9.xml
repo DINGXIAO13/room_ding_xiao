@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>btteisul</sys_created_by>
+        <sys_created_on>2021-10-13 06:56:40</sys_created_on>
+        <sys_id>0f24a127dbc77490f21ad6d5f39619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_ntt70_demo_u6806_needit_tasks.x_ntt70_demo_u6806.needit_tasks_user</sys_name>
+        <sys_package display_value="demo_U680634" source="x_ntt70_demo_u6806">4bb7567ddb033c50f21ad6d5f39619bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo_U680634">4bb7567ddb033c50f21ad6d5f39619bf</sys_scope>
+        <sys_security_acl display_value="x_ntt70_demo_u6806_needit_tasks">b224a127dbc77490f21ad6d5f39619a6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0f24a127dbc77490f21ad6d5f39619a9</sys_update_name>
+        <sys_updated_by>btteisul</sys_updated_by>
+        <sys_updated_on>2021-10-13 06:56:40</sys_updated_on>
+        <sys_user_role display_value="x_ntt70_demo_u6806.needit_tasks_user" name="x_ntt70_demo_u6806.needit_tasks_user">ba24a5e3dbc77490f21ad6d5f39619eb</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
