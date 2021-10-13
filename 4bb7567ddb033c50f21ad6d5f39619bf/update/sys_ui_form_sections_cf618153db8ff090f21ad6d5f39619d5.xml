@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="cf618153db8ff090f21ad6d5f39619d5" sys_domain="global" table="x_ntt70_demo_u6806_needit_xiao" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>btteisul</sys_created_by>
+            <sys_created_on>2021-10-12 09:46:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8b610953db8ff090f21ad6d5f3961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_ntt70_demo_u6806_needit_xiao" name="x_ntt70_demo_u6806_needit_xiao" sys_domain="global" view="Default view">cf618153db8ff090f21ad6d5f39619d5</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_ntt70_demo_u6806_needit_xiao" sys_domain="global" view="Default view">0f61c553db8ff090f21ad6d5f39619da</sys_ui_section>
+            <sys_updated_by>btteisul</sys_updated_by>
+            <sys_updated_on>2021-10-12 09:46:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>btteisul</sys_created_by>
+            <sys_created_on>2021-10-12 09:46:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0761c553db8ff090f21ad6d5f39619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_ntt70_demo_u6806_needit_xiao" name="x_ntt70_demo_u6806_needit_xiao" sys_domain="global" view="Default view">cf618153db8ff090f21ad6d5f39619d5</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_ntt70_demo_u6806_needit_xiao" sys_domain="global" view="Default view">0361c553db8ff090f21ad6d5f39619d6</sys_ui_section>
+            <sys_updated_by>btteisul</sys_updated_by>
+            <sys_updated_on>2021-10-12 09:46:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>btteisul</sys_created_by>
+            <sys_created_on>2021-10-12 09:46:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8361c553db8ff090f21ad6d5f39619d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_ntt70_demo_u6806_needit_xiao" name="x_ntt70_demo_u6806_needit_xiao" sys_domain="global" view="Default view">cf618153db8ff090f21ad6d5f39619d5</sys_ui_form>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_ntt70_demo_u6806_needit_xiao" sys_domain="global" view="Default view">03618153db8ff090f21ad6d5f39619d9</sys_ui_section>
+            <sys_updated_by>btteisul</sys_updated_by>
+            <sys_updated_on>2021-10-12 09:46:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_ntt70_demo_u6806_needit_xiao</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>btteisul</sys_created_by>
+            <sys_created_on>2021-10-12 09:46:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cf618153db8ff090f21ad6d5f39619d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_ntt70_demo_u6806_needit_xiao</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="demo_U680634" source="x_ntt70_demo_u6806">4bb7567ddb033c50f21ad6d5f39619bf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="demo_U680634">4bb7567ddb033c50f21ad6d5f39619bf</sys_scope>
+            <sys_update_name>sys_ui_form_sections_cf618153db8ff090f21ad6d5f39619d5</sys_update_name>
+            <sys_updated_by>btteisul</sys_updated_by>
+            <sys_updated_on>2021-10-12 09:46:22</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_ntt70_demo_u6806_needit_xiao</description>
+        <name>x_ntt70_demo_u6806_needit_xiao</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>btteisul</sys_created_by>
+        <sys_created_on>2021-10-12 09:44:32</sys_created_on>
+        <sys_id>4001c913db8ff090f21ad6d5f39619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_ntt70_demo_u6806_needit_xiao</sys_name>
+        <sys_package display_value="demo_U680634" source="x_ntt70_demo_u6806">4bb7567ddb033c50f21ad6d5f39619bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo_U680634">4bb7567ddb033c50f21ad6d5f39619bf</sys_scope>
+        <sys_update_name>sys_security_acl_4001c913db8ff090f21ad6d5f39619ff</sys_update_name>
+        <sys_updated_by>btteisul</sys_updated_by>
+        <sys_updated_on>2021-10-12 09:44:32</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
