@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_query_parameter_map">
+    <sys_ws_query_parameter_map action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_ws_query_parameter_map</sys_class_name>
+        <sys_created_by>btteisul</sys_created_by>
+        <sys_created_on>2021-10-18 05:23:23</sys_created_on>
+        <sys_id>af9e7609db1bb410f21ad6d5f3961997</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f41c3245db1bb410f21ad6d5f396197a</sys_name>
+        <sys_package display_value="demo_U680634" source="x_ntt70_demo_u6806">4bb7567ddb033c50f21ad6d5f39619bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo_U680634">4bb7567ddb033c50f21ad6d5f39619bf</sys_scope>
+        <sys_update_name>sys_ws_query_parameter_map_af9e7609db1bb410f21ad6d5f3961997</sys_update_name>
+        <sys_updated_by>btteisul</sys_updated_by>
+        <sys_updated_on>2021-10-18 05:23:23</sys_updated_on>
+        <web_service_operation display_value="ni_getinfo">a3fcf285db1bb410f21ad6d5f39619ac</web_service_operation>
+        <web_service_query_parameter display_value="ni_query">f41c3245db1bb410f21ad6d5f396197a</web_service_query_parameter>
+    </sys_ws_query_parameter_map>
+</record_update>
